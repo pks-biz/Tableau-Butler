@@ -6,7 +6,8 @@ To begin with you need some pre-reqs
 ## Pre-requisites
 1. Install Python on your system. This can be done in multiple ways but my preferred method is with Anaconda and you can find instructions to do the same here (https://docs.google.com/document/d/1Vg2IUihYZbGyz7D6uJoagGMRB7rFvjDXy6wTXcZlLj8/edit?usp=sharing).
 2. Download the Jupyter Notebook (remove_users.ipynb) in this repository and open it with Jupyter Lab in Anaconda.
-3. The code will require a Tableau workbook connecting to the Postgres Database of the relevant Server
+3. Your Server login details with Server Administrator or Site Administrator access.
+3. The code will require a Tableau workbook connecting to the Postgres Database of the relevant Server.
 4. After the Tableau workbook is ready use the attached notebook code to remove users.
 
 ## Connecting to the Postgres database
